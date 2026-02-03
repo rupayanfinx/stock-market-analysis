@@ -1,1 +1,1 @@
-# stock-market-analysis
+# stock_market_analysis
